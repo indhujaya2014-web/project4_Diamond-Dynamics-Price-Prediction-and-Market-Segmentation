@@ -38,12 +38,12 @@ The diamond market relies heavily on quality attributes such as carat, cut, colo
 
 
 ## 📊 Dataset
-  **Source:** Diamond Dataset
-  **Rows:** 53,940
-  **Features:** 10
+ - **Source:** Diamond Dataset
+ - **Rows:** 53,940
+ - **Features:** 10
   Target variable: price (converted to INR)
 
 ## 🚀 Output
-  Diamond Price Prediction (INR)
-  Market Segment Classification
-  Interactive UI
+ - Diamond Price Prediction (INR)
+ - Market Segment Classification
+ - Interactive UI
