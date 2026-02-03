@@ -1,0 +1,2 @@
+# project4_Diamond-Dynamics-Price-Prediction-and-Market-Segmentation
+The Diamond Dynamics project focuses on building an end-to-end machine learning and deep learning solution to analyze, predict, and segment diamond products based on their physical and qualitative attributes. The diamond industry relies on characteristics such as carat, cut, color, clarity, and dimensions to determine pricing and market value.
