@@ -34,8 +34,17 @@ The diamond market relies heavily on quality attributes such as carat, cut, colo
 
 ---
 
-## 📂 Project Structure
-
+## 📂 Project Structure  
+Diamond-dynamics-Price-and-Market-segment-prediction
+│
+├── diamonds.csv #data
+├── Project_4_Diamond Dynamics: Price Prediction and Market Segmentation.ipynb # Colab (Streamlit UI)
+├── price_model.pkl # Saved trained model
+├── scaler.pkl # Saved scaler
+├── encoder.pkl # Saved target encoder
+├── cluster_model.pkl
+├── requirements.txt
+└── README.md
 
 ## 📊 Dataset
  - **Source:** Diamond Dataset
